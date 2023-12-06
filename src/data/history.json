@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Photos"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "May, 2023",
+    "endDate": "May, 2023",
+    "experiences": ["Worked on Windows 11", "Designer"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Netflix",
+    "startDate": "Dec, 2022",
+    "endDate": "Feb, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
